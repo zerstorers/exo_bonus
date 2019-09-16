@@ -1,0 +1,9 @@
+.compteurs , p {
+    display: inline-block;
+}
+
+#part-one , #part-two , #part-three , #part-four {
+    border: 2px solid black;
+    display: inline-block;
+}
+
